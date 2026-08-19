@@ -6,7 +6,7 @@
 
 Computer Science & IT student at NED University (Class of 2028), focused on Generative AI, AI Agents, and full-stack AI applications — not tutorials, shipped projects.
 
-📫 **Email:** [ADD PROFESSIONAL EMAIL] · 💼 **LinkedIn:** [ADD LINKEDIN URL] · 🌐 **Portfolio:** [ADD PORTFOLIO URL]
+📫 **Email:** muhammadtahafarrukh@gmail.com · 💼 **LinkedIn:** https://www.linkedin.com/in/taha-farrukh/ · 🌐 **Portfolio:** 
 
 </div>
 

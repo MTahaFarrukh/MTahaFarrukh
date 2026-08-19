@@ -1,139 +1,237 @@
 <div align="center">
 
-# Muhammad Taha Farrukh
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=TAHA%20FARRUKH&fontSize=54&fontColor=E5D9FF&fontAlignY=42&desc=AI%20AGENTS%20%E2%80%A2%20RAG%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20LLM%20SYSTEMS&descAlign=50&descAlignY=62&descSize=17" width="100%"/>
 
-### Aspiring AI Engineer · Building Agentic & Production-Grade AI Systems
+<br>
 
-Computer Science & IT student at NED University (Class of 2028), focused on Generative AI, AI Agents, and full-stack AI applications — not tutorials, shipped projects.
+<h3>Aspiring AI Engineer &nbsp;·&nbsp; CSIT @ NED University &nbsp;·&nbsp; Class of 2028</h3>
 
-📫 **Email:** muhammadtahafarrukh@gmail.com · 💼 **LinkedIn:** https://www.linkedin.com/in/taha-farrukh/ · 🌐 **Portfolio:** 
+<i>I build systems that reason, retrieve, and act — then I make them a little harder next time.</i>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/taha-farrukh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C4FF7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_URL-2b2b40?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:muhammadtahafarrukh@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadtahafarrukh%40gmail.com-6C4FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
 
-I'm a CS & IT student who spends most of his time outside the classroom building things — mainly AI agents, RAG pipelines, and full-stack applications that solve real problems instead of demo-only concepts. My focus right now is on **agentic AI systems**: how to design agents that plan, reason, use tools, and hold up in production, not just in a notebook.
+## &nbsp;⌁&nbsp; Who I Am
 
-I'm comfortable across the stack — Python/FastAPI on the backend, React/Next.js on the frontend, and LangChain/LangGraph tying the AI layer together. I actively compete in AI/ML hackathons and use them to stress-test ideas quickly.
+I'm a CSIT student who treats every AI project as one step harder than the last — chatbot, then retrieval, then a tool-using agent, then an agent you can *talk to*. Most of what I actually know came from finishing these builds and hackathons, not from a course.
 
-- 🎓 Computer Science & IT student at NED University — expected 2028
-- 🧠 Currently deep in **AI Agents, RAG systems, and LLM-powered applications**
-- 🛠️ Building end-to-end AI products — backend, frontend, and the AI layer
-- 🏆 Active in AI/ML hackathons and technical competitions
-- 🤝 Open to internships, collaborations, and interesting AI-engineering problems
+Right now I'm chasing one thing specifically: **agentic systems that don't just respond, they complete tasks.**
 
 <br>
 
-## Tech Stack
+## &nbsp;⌁&nbsp; The Pipeline I Build Against
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140"><b>🧑 USER</b></td>
+<td align="center">→</td>
+<td align="center" width="180"><b>🧠 LLM</b><br><sub>prompting · structured output</sub></td>
+<td align="center">→</td>
+<td align="center" width="200"><b>🔎 RETRIEVAL / TOOLS</b><br><sub>RAG · vector search · MCP</sub></td>
+<td align="center">→</td>
+<td align="center" width="180"><b>🤖 AGENT</b><br><sub>LangGraph · state · tools</sub></td>
+<td align="center">→</td>
+<td align="center" width="180"><b>⚡ ACTION</b><br><sub>voice · booking · scoring</sub></td>
+<td align="center">→</td>
+<td align="center" width="180"><b>🚀 PRODUCT</b><br><sub>FastAPI · React · Postgres</sub></td>
+</tr>
+</table>
 
-**AI / ML**
+</div>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4B0082?style=flat-square)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-4B0082?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=flat-square)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF6B6B?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+Every project below lives on this pipeline. Most tutorials stop at the second box — mine start there.
 
 <br>
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
 
-### 🧭 CareerGPS AI
-An AI-powered career platform bringing resume analysis, job matching, career roadmaps, interview preparation, skills analysis, and analytics into a single guided experience.
-`Python` `FastAPI` `LLMs` `RAG` `React` `PostgreSQL`
+## &nbsp;⌁&nbsp; Currently in the Lab
+
+<table>
+<tr><td>🤖</td><td><b>LangGraph</b></td><td>multi-step agent workflows — planning, branching, tool calls</td></tr>
+<tr><td>🔌</td><td><b>MCP</b></td><td>giving agents a standard way to reach external tools & context</td></tr>
+<tr><td>🎙️</td><td><b>Voice AI</b></td><td>real-time pipelines — Gemini Live, LiveKit</td></tr>
+<tr><td>🔎</td><td><b>RAG</b></td><td>retrieval quality — chunking, embeddings, evaluation</td></tr>
+<tr><td>🚢</td><td><b>Deployment</b></td><td>pushing prototypes closer to something production-shaped</td></tr>
+</table>
+
+<sub>Exploring, not claiming mastery — this is the build → experiment stage.</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+
+## &nbsp;⌁&nbsp; Featured Builds
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%">
 
 ### 🎙️ FirstRound — AI Interviewer
-An AI interviewer that ingests a candidate's resume, job description, and GitHub profile to prepare a tailored interview, conduct it as a live voice conversation, and generate an evidence-based scorecard.
-`LangGraph` `Gemini Live` `LiveKit` `GitHub API` `MCP` `Python`
+<img src="https://img.shields.io/badge/flagship_build-6C4FF7?style=flat-square"/>
 
-### 🔍 RAG Comparison Tool
-A RAG application built to compare different retrieval strategies side by side, from chunking to embedding models to retrieval quality.
-`React` `FastAPI` `LangChain` `ChromaDB` `Hugging Face Embeddings`
+**Problem** Interview prep is generic — it ignores the specific candidate, role, and their actual GitHub work.
+**Built** An agent that reads a resume, job description, and GitHub profile together, runs a **live voice interview**, and produces an evidence-based scorecard instead of a gut call.
+**Hard part** Keeping a LangGraph agent, a real-time voice pipeline, and a GitHub-derived context source in sync without the conversation breaking mid-interview.
 
-### 🚗 AI Car Wash Booking Agent
-A conversational booking agent for car wash services, handling scheduling end-to-end through a backend API, database, and WhatsApp integration via a WhatsApp bridge.
-`Python` `FastAPI` `Conversational AI` `WhatsApp API` `SQL`
+`Python` `LangGraph` `Gemini Live` `LiveKit` `GitHub API` `MCP` `SQLite`
 
-### 🏷️ Daraz Multi-Store Label Manager
-A tool that simplifies shipping-label processing for sellers managing multiple Daraz stores, cutting down repetitive manual work.
-`Python` `Automation`
+**[ Add Repo ]** &nbsp;&nbsp;**[ Add Demo ]**
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## GitHub Stats
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 CareerGPS AI
+**Problem** Career tools do one thing in isolation — resume review, *or* job matching, never both.
+**Built** One AI career platform: resume analysis, job matching, roadmaps, interview prep, skills analysis, planning, AI chat, and analytics.
+**Hard part** Keeping nine AI-driven features consistent instead of feeling bolted together.
+
+`Python` `FastAPI` `LLMs` `RAG` `React` `PostgreSQL`
+
+**[ Add Repo ]** · **[ Add Demo ]**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 RAG Comparison Tool
+**Problem** "Just use RAG" hides a dozen decisions — chunking, embedding model, retriever.
+**Built** A tool that runs different retrieval strategies side by side so trade-offs are visible, not assumed.
+**Hard part** Designing a fair comparison harness where only one variable changes at a time.
+
+`React` `FastAPI` `LangChain` `ChromaDB` `HF Embeddings`
+
+**[ Add Repo ]** · **[ Add Demo ]**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 AI Car Wash Booking Agent
+**Problem** Small service businesses lose bookings to friction — apps nobody downloads, forms nobody fills.
+**Built** A conversational agent that runs the entire booking flow over WhatsApp, backed by a real API and database.
+**Hard part** Holding context across a multi-turn WhatsApp chat while reading/writing the backend live.
+
+`Next.js` `TypeScript` `FastAPI` `SQLAlchemy` `Supabase` `WhatsApp`
+
+**[ Add Repo ]** · **[ Add Demo ]**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏷️ Daraz Multi-Store Label Manager
+**Problem** Sellers running multiple Daraz stores process shipping labels manually, one store at a time.
+**Built** A tool that simplifies and centralizes label processing across stores.
+
+`Python` `Automation`
+
+**[ Add Repo ]**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+
+## &nbsp;⌁&nbsp; AI Engineering Areas
+
+<table>
+<tr><td align="center">🤖<br><b>Agentic AI</b></td><td align="center">🔎<br><b>RAG</b></td><td align="center">🧠<br><b>Generative AI</b></td><td align="center">🎙️<br><b>Voice AI</b></td><td align="center">🔌<br><b>MCP / Tools</b></td><td align="center">⚙️<br><b>AI Automation</b></td></tr>
+<tr><td><sub>FirstRound<br>Car Wash Agent</sub></td><td><sub>RAG Comparison<br>Tool</sub></td><td><sub>CareerGPS AI</sub></td><td><sub>FirstRound</sub></td><td><sub>FirstRound</sub></td><td><sub>Daraz Label<br>Manager</sub></td></tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+
+## &nbsp;⌁&nbsp; Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-6C4FF7?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-6C4FF7?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-6C4FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6C4FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20DBs-6C4FF7?style=flat-square"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/LiveKit-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+
+## &nbsp;⌁&nbsp; Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MTahaFarrukh&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTahaFarrukh&layout=compact&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MTahaFarrukh&hide_border=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=MTahaFarrukh&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&title_color=6C4FF7&icon_color=6C4FF7&text_color=888888" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MTahaFarrukh&hide_border=true&background=00000000&ring=6C4FF7&fire=6C4FF7&currStreakLabel=6C4FF7" height="150"/>
 </div>
 
 <br>
 
-## Currently Learning / Exploring
+## &nbsp;⌁&nbsp; Open To
 
-- Advanced multi-agent orchestration with LangGraph
-- Production-grade RAG architecture (retrieval quality, evaluation, latency)
-- MCP (Model Context Protocol) for tool-using agents
-- Scaling FastAPI backends for AI workloads
-
-<br>
-
-## Let's Connect
-
-I'm open to internships, collaborations, and hackathon teams working on AI agents, RAG, or LLM-powered products.
-
-- 🐙 GitHub: [github.com/MTahaFarrukh](https://github.com/MTahaFarrukh)
-- 📧 Email: muhammadtahafarrukh@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/taha-farrukh/
-- 🌐 Portfolio: 
+<table>
+<tr><td>🎯</td><td>AI engineering internships & roles — agents, RAG, LLM applications</td></tr>
+<tr><td>🏆</td><td>Hackathons and short, focused collaborative builds</td></tr>
+<tr><td>💡</td><td>Interesting agentic AI ideas worth prototyping</td></tr>
+</table>
 
 <br>
 
 <div align="center">
 
-*Building in public, one agent at a time.*
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+
+<sub>muhammadtahafarrukh@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/taha-farrukh/">linkedin</a> &nbsp;·&nbsp; portfolio: add url</sub>
 
 </div>

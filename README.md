@@ -141,7 +141,7 @@ Award-winning agentic sales system using LLM reasoning and tool-driven automatio
 </table>
 
 <br>
-## 🏆 Hackathon Highlights
+### 🏆 Hackathon Highlights
 
 - 🥇 **AgentHack 2026** — 1st Place — Autonomous Sales Agent
 - 🥇 **BuildByte Hackathon** — 1st Place — CareerGPS AI

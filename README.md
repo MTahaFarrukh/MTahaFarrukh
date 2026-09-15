@@ -141,11 +141,55 @@ Award-winning agentic sales system using LLM reasoning and tool-driven automatio
 </table>
 
 <br>
-### 🏆 Hackathon Highlights
 
-- 🥇 **AgentHack 2026** — 1st Place — Autonomous Sales Agent
-- 🥇 **BuildByte Hackathon** — 1st Place — CareerGPS AI
-- 🏅 **Social Nova 2026** — Top 5 — AMAAN / Digital Shield
+##  ⌁  Hackathon Track Record
+
+Three competitions. **Two championships. One national Top 5 finish.**
+Built under tight deadlines, judged through live demonstrations, and designed to solve real-world problems—not just showcase prototypes.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🥇 AgentHack 2026
+
+**1st Place · National AI Agents Hackathon**
+
+Co-built an **Autonomous Sales Agent** that uses LLM reasoning and tool-driven workflows to qualify leads, personalize outreach, and automate the sales pipeline.
+
+`Agentic AI` `LLM Tools` `Workflow Automation`
+
+[GitHub](https://github.com/MTahaFarrukh/AgentHack-Autonomous-Sales-Agent) · [Live Demo](https://agent-hack-kappa.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🥇 BuildByte Hackathon
+
+**1st Place**
+
+Built **CareerGPS AI**, an end-to-end career copilot combining resume analysis, job matching, skill-gap detection, personalized roadmaps, project recommendations, and AI-powered interview preparation.
+
+`RAG` `Generative AI` `Career Intelligence`
+
+</td>
+<td width="33%" valign="top">
+
+### 🏅 Social Nova 2026
+
+**Top 5 Finalist**
+
+Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that helps non-technical users verify suspicious WhatsApp messages, links, emails, documents, images, audio, and video.
+
+`Multimodal AI` `Cyber Safety` `Gemini`
+ · [Live Demo](https://brain-hack-habib.vercel.app/scan)
+
+</td>
+</tr>
+</table>
+
+> **What these results represent:** rapid problem-solving, team execution, product thinking, and the ability to turn ambitious AI ideas into working demos under pressure.
+
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>

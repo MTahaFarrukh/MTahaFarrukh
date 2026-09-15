@@ -141,7 +141,13 @@ Award-winning agentic sales system using LLM reasoning and tool-driven automatio
 </table>
 
 <br>
+## 🏆 Hackathon Highlights
 
+- 🥇 **AgentHack 2026** — 1st Place — Autonomous Sales Agent
+- 🥇 **BuildByte Hackathon** — 1st Place — CareerGPS AI
+- 🏅 **Social Nova 2026** — Top 5 — AMAAN / Digital Shield
+
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
 
 ## &nbsp;⌁&nbsp; AI Engineering Areas

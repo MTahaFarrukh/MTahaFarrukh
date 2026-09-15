@@ -11,7 +11,6 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/taha-farrukh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C4FF7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_URL-2b2b40?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:muhammadtahafarrukh@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadtahafarrukh%40gmail.com-6C4FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -89,7 +88,7 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 
 `Python` `LangGraph` `Gemini Live` `LiveKit` `GitHub API` `MCP` `SQLite`
 
-**[ Add Repo ]** &nbsp;&nbsp;**[ Add Demo ]**
+[GitHub](https://github.com/MTahaFarrukh/AI-Interviewer-Video-Call)
 
 </td>
 </tr>
@@ -101,26 +100,17 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 CareerGPS AI
-**Problem** Career tools do one thing in isolation — resume review, *or* job matching, never both.
-**Built** One AI career platform: resume analysis, job matching, roadmaps, interview prep, skills analysis, planning, AI chat, and analytics.
-**Hard part** Keeping nine AI-driven features consistent instead of feeling bolted together.
+### 📄 DocuMind AI — Multimodal RAG
+Multimodal RAG system for querying and reasoning across document text, figures, tables, and visual content.
 
-`Python` `FastAPI` `LLMs` `RAG` `React` `PostgreSQL`
-
-**[ Add Repo ]** · **[ Add Demo ]**
-
+[GitHub](https://github.com/MTahaFarrukh/Multi-Modal-Document-AI-App)
 </td>
 <td width="50%" valign="top">
 
-### 🔎 RAG Comparison Tool
-**Problem** "Just use RAG" hides a dozen decisions — chunking, embedding model, retriever.
-**Built** A tool that runs different retrieval strategies side by side so trade-offs are visible, not assumed.
-**Hard part** Designing a fair comparison harness where only one variable changes at a time.
+### 🏆 Autonomous Sales Agent — AgentHack 2026 Winner
+Award-winning agentic sales system using LLM reasoning and tool-driven automation for autonomous sales workflows.
 
-`React` `FastAPI` `LangChain` `ChromaDB` `HF Embeddings`
-
-**[ Add Repo ]** · **[ Add Demo ]**
+[GitHub](https://github.com/MTahaFarrukh/AgentHack-Autonomous-Sales-Agent) · [Live Demo](https://agent-hack-kappa.vercel.app/)
 
 </td>
 </tr>
@@ -134,7 +124,7 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 
 `Next.js` `TypeScript` `FastAPI` `SQLAlchemy` `Supabase` `WhatsApp`
 
-**[ Add Repo ]** · **[ Add Demo ]**
+[GitHub](https://github.com/MTahaFarrukh/Car-Wash-Booking-Voice-Agent) · [Live Demo](https://car-wash-booking-voice-agent.vercel.app/)*
 
 </td>
 <td width="50%" valign="top">
@@ -145,8 +135,7 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 
 `Python` `Automation`
 
-**[ Add Repo ]**
-
+[GitHub](https://github.com/MTahaFarrukh/Daraz-Multi-Store-App) · [Live Demo](https://daraz-multi-store.onrender.com/app)
 </td>
 </tr>
 </table>
@@ -232,6 +221,6 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
-<sub>muhammadtahafarrukh@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/taha-farrukh/">linkedin</a> &nbsp;·&nbsp; portfolio: add url</sub>
+<sub>muhammadtahafarrukh@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/taha-farrukh/">linkedin</a> &nbsp;·&nbsp;</sub>
 
 </div>

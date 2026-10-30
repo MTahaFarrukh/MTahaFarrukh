@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Pipeline: User, LLM, Retrieval and Tools, Agent, Action, Product">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F0C29"/><stop offset="0.5" stop-color="#302B63"/><stop offset="1" stop-color="#24243E"/></linearGradient>
+<linearGradient id="node" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A3478"/><stop offset="1" stop-color="#1B1840"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.t{fill:#E5D9FF;font-size:12.5px;font-weight:700;letter-spacing:.5px}
+.s{fill:#A99CD9;font-size:10px}
+.n{stroke:#6C4FF7;stroke-width:1.5;stroke-opacity:.45;animation:pulse 6s ease-in-out infinite}
+.l{stroke:#8E75FF;stroke-width:2;stroke-dasharray:5 5;animation:flow 1s linear infinite}
+.cap{fill:#B79CFF;font-size:10px;letter-spacing:2px;animation:blink 3s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-10}}
+@keyframes pulse{0%,14%{stroke-opacity:1;stroke-width:2.5}22%,100%{stroke-opacity:.45;stroke-width:1.5}}
+@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+</style>
+<rect width="1000" height="150" rx="18" fill="url(#bg)"/>
+<text x="500" y="26" text-anchor="middle" class="cap">THE PIPELINE I BUILD AGAINST</text>
+<rect class="n" x="10" y="50" width="130" height="64" rx="12" fill="url(#node)" style="animation-delay:0.0s"/>
+<text class="t" x="75" y="78" text-anchor="middle">USER</text><text class="s" x="75" y="97" text-anchor="middle">who asks</text>
+<line class="l" x1="144" y1="82" x2="176" y2="82"/>
+<rect class="n" x="180" y="50" width="130" height="64" rx="12" fill="url(#node)" style="animation-delay:1.2s"/>
+<text class="t" x="245" y="78" text-anchor="middle">LLM</text><text class="s" x="245" y="97" text-anchor="middle">prompting · output</text>
+<line class="l" x1="314" y1="82" x2="346" y2="82"/>
+<rect class="n" x="350" y="50" width="130" height="64" rx="12" fill="url(#node)" style="animation-delay:2.4s"/>
+<text class="t" x="415" y="78" text-anchor="middle">RAG &amp; TOOLS</text><text class="s" x="415" y="97" text-anchor="middle">vector search · MCP</text>
+<line class="l" x1="484" y1="82" x2="516" y2="82"/>
+<rect class="n" x="520" y="50" width="130" height="64" rx="12" fill="url(#node)" style="animation-delay:3.6s"/>
+<text class="t" x="585" y="78" text-anchor="middle">AGENT</text><text class="s" x="585" y="97" text-anchor="middle">LangGraph · state</text>
+<line class="l" x1="654" y1="82" x2="686" y2="82"/>
+<rect class="n" x="690" y="50" width="130" height="64" rx="12" fill="url(#node)" style="animation-delay:4.8s"/>
+<text class="t" x="755" y="78" text-anchor="middle">ACTION</text><text class="s" x="755" y="97" text-anchor="middle">voice · booking</text>
+<line class="l" x1="824" y1="82" x2="856" y2="82"/>
+<rect class="n" x="860" y="50" width="130" height="64" rx="12" fill="url(#node)" style="animation-delay:6.0s"/>
+<text class="t" x="925" y="78" text-anchor="middle">PRODUCT</text><text class="s" x="925" y="97" text-anchor="middle">FastAPI · Next.js</text>
+<circle r="5" fill="#E5D9FF" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M 75 82 L 925 82"/></circle>
+<text x="500" y="138" text-anchor="middle" class="s" style="font-size:11px">Most tutorials stop at the second box — mine start there.</text>
+</svg>

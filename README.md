@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=TAHA%20FARRUKH&fontSize=54&fontColor=E5D9FF&fontAlignY=42&desc=AI%20AGENTS%20%E2%80%A2%20RAG%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20VOICE%20AI&descAlign=50&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6C4FF7&height=230&section=header&text=TAHA%20FARRUKH&fontSize=54&fontColor=E5D9FF&fontAlignY=36&animation=fadeIn&desc=AI%20AGENTS%20%E2%80%A2%20RAG%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20VOICE%20AI&descAlign=50&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-<h3>Aspiring AI Engineer &nbsp;·&nbsp; BS Computer Science (AI) @ NED University &nbsp;·&nbsp; Class of 2028</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=B79CFF&center=true&vCenter=true&width=760&height=44&lines=Aspiring+AI+Engineer+%40+NED+University;Building+agents+that+reason%2C+retrieve+%26+act;1st+Place+%E2%80%94+Devmarketplace+%C3%97+NED+AI+Hackathon;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Voice+AI+%E2%80%A2+Full-Stack" alt="Typing intro"/>
+
+<h3>BS Computer Science (AI) &nbsp;·&nbsp; NED University &nbsp;·&nbsp; Class of 2028</h3>
 
 <i>I build systems that reason, retrieve, and act — then I make them a little harder next time.</i>
 
@@ -24,7 +26,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Who I Am
 
@@ -38,29 +40,15 @@ Right now I'm chasing one thing specifically: **agentic systems that don't just 
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140"><b>🧑 USER</b></td>
-<td align="center">→</td>
-<td align="center" width="180"><b>🧠 LLM</b><br><sub>prompting · structured output</sub></td>
-<td align="center">→</td>
-<td align="center" width="200"><b>🔎 RETRIEVAL / TOOLS</b><br><sub>RAG · vector search · MCP</sub></td>
-<td align="center">→</td>
-<td align="center" width="180"><b>🤖 AGENT</b><br><sub>LangGraph · state · tools</sub></td>
-<td align="center">→</td>
-<td align="center" width="180"><b>⚡ ACTION</b><br><sub>voice · booking · scoring</sub></td>
-<td align="center">→</td>
-<td align="center" width="180"><b>🚀 PRODUCT</b><br><sub>FastAPI · React · Postgres</sub></td>
-</tr>
-</table>
+<img src="assets/pipeline.svg" alt="User → LLM → RAG & Tools → Agent → Action → Product" width="100%"/>
 
 </div>
 
-Every project below lives on this pipeline. Most tutorials stop at the second box — mine start there.
+Every project below lives on this pipeline.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Currently in the Lab
 
@@ -76,7 +64,7 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Featured Builds
 
@@ -173,7 +161,7 @@ Award-winning agentic sales system using LLM reasoning and tool-driven automatio
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Hackathon Track Record
 
@@ -241,7 +229,7 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; AI Engineering Areas
 
@@ -252,7 +240,7 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Stack
 
@@ -297,7 +285,7 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Activity
 
@@ -308,7 +296,19 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+## &nbsp;⌁&nbsp; Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MTahaFarrukh/MTahaFarrukh/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MTahaFarrukh/MTahaFarrukh/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MTahaFarrukh/MTahaFarrukh/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
+<br>
+
+<img src="assets/divider.svg" width="100%" height="4"/>
 
 ## &nbsp;⌁&nbsp; Open To
 
@@ -323,7 +323,7 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4FF7,50:302B63,100:0F0C29&height=110&section=footer" width="100%"/>
 
 <sub>muhammadtahafarrukh@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/taha-farrukh/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/MTahaFarrukh">GitHub</a></sub>
 

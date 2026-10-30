@@ -101,7 +101,7 @@ Every project below lives on this pipeline.
 **Built** An agent that reads a resume, job description, and GitHub profile together, runs a **live voice interview**, and produces an evidence-based scorecard instead of a gut call.
 **Hard part** Keeping a LangGraph agent, a real-time voice pipeline, and a GitHub-derived context source in sync without the conversation breaking mid-interview.
 
-`Python` `LangGraph` `Gemini Live` `LiveKit` `GitHub API` `MCP` `SQLite`
+`Python` `LangGraph` `Gemini Live` `LiveKit` `GitHub API` `MCP` `PostgreSQL` `Supabase`
 
 [GitHub](https://github.com/MTahaFarrukh/AI-Interviewer-Video-Call)
 

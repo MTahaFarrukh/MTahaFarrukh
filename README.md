@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=TAHA%20FARRUKH&fontSize=54&fontColor=E5D9FF&fontAlignY=42&desc=AI%20AGENTS%20%E2%80%A2%20RAG%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20LLM%20SYSTEMS&descAlign=50&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=TAHA%20FARRUKH&fontSize=54&fontColor=E5D9FF&fontAlignY=42&desc=AI%20AGENTS%20%E2%80%A2%20RAG%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20VOICE%20AI&descAlign=50&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
-<h3>Aspiring AI Engineer &nbsp;·&nbsp; CSIT @ NED University &nbsp;·&nbsp; Class of 2028</h3>
+<h3>Aspiring AI Engineer &nbsp;·&nbsp; BS Computer Science (AI) @ NED University &nbsp;·&nbsp; Class of 2028</h3>
 
 <i>I build systems that reason, retrieve, and act — then I make them a little harder next time.</i>
 
@@ -12,6 +12,13 @@
 
 <a href="https://www.linkedin.com/in/taha-farrukh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C4FF7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:muhammadtahafarrukh@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadtahafarrukh%40gmail.com-6C4FF7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🥇_1st_Place-Devmarketplace_×_NED_AI_Hackathon-6C4FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/🥇_1st_Place-AgentHack_2026-6C4FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/🥇_1st_Place-BuildByte-6C4FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏅_Top_5-Social_Nova_2026-302B63?style=flat-square"/>
 
 </div>
 
@@ -21,7 +28,7 @@
 
 ## &nbsp;⌁&nbsp; Who I Am
 
-I'm a CSIT student who treats every AI project as one step harder than the last — chatbot, then retrieval, then a tool-using agent, then an agent you can *talk to*. Most of what I actually know came from finishing these builds and hackathons, not from a course.
+I'm a CS student (AI specialization) at NED University who treats every AI project as one step harder than the last — chatbot, then retrieval, then a tool-using agent, then an agent you can *talk to*. Most of what I actually know came from finishing these builds and hackathons, not from a course.
 
 Right now I'm chasing one thing specifically: **agentic systems that don't just respond, they complete tasks.**
 
@@ -60,7 +67,7 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 <table>
 <tr><td>🤖</td><td><b>LangGraph</b></td><td>multi-step agent workflows — planning, branching, tool calls</td></tr>
 <tr><td>🔌</td><td><b>MCP</b></td><td>giving agents a standard way to reach external tools & context</td></tr>
-<tr><td>🎙️</td><td><b>Voice AI</b></td><td>real-time pipelines — Gemini Live, LiveKit</td></tr>
+<tr><td>🎙️</td><td><b>Voice AI</b></td><td>real-time pipelines — Gemini Live, LiveKit, Vapi</td></tr>
 <tr><td>🔎</td><td><b>RAG</b></td><td>retrieval quality — chunking, embeddings, evaluation</td></tr>
 <tr><td>🚢</td><td><b>Deployment</b></td><td>pushing prototypes closer to something production-shaped</td></tr>
 </table>
@@ -72,6 +79,26 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
 
 ## &nbsp;⌁&nbsp; Featured Builds
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🧑‍🏫 Visual AI Tutor — Live AI Whiteboard Tutor
+<img src="https://img.shields.io/badge/🥇_1st_Place-Devmarketplace_×_NED_AI_Hackathon_2026-6C4FF7?style=flat-square"/>
+
+**Built** An AI tutor that teaches concepts live on an **Excalidraw whiteboard**, powered by **Gemini 2.5 Flash**, with a **Vapi voice agent**, plus **Teach-the-AI** and **viva** modes. Secured with TOTP two-factor authentication.
+**Result** My latest build — and the one that won first place at the Devmarketplace × NED AI Hackathon.
+
+`Next.js` `Supabase` `Gemini 2.5 Flash` `Excalidraw` `Vapi` `Vercel`
+
+[GitHub](https://github.com/MTahaFarrukh/ai-tutor-devmarketplace) · [Live Demo](https://ai-tutor-devmarketplace.vercel.app) · [Demo Video](https://youtu.be/Gbw-mYlmXuI)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -103,12 +130,16 @@ Every project below lives on this pipeline. Most tutorials stop at the second bo
 ### 📄 DocuMind AI — Multimodal RAG
 Multimodal RAG system for querying and reasoning across document text, figures, tables, and visual content.
 
+`LangChain` `ChromaDB` `Embeddings` `Vision AI`
+
 [GitHub](https://github.com/MTahaFarrukh/Multi-Modal-Document-AI-App)
 </td>
 <td width="50%" valign="top">
 
 ### 🏆 Autonomous Sales Agent — AgentHack 2026 Winner
 Award-winning agentic sales system using LLM reasoning and tool-driven automation for autonomous sales workflows.
+
+`Agentic AI` `LLM Reasoning` `Tool Calling`
 
 [GitHub](https://github.com/MTahaFarrukh/AgentHack-Autonomous-Sales-Agent) · [Live Demo](https://agent-hack-kappa.vercel.app/)
 
@@ -117,14 +148,14 @@ Award-winning agentic sales system using LLM reasoning and tool-driven automatio
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 AI Car Wash Booking Agent
+### 🚗 Sparkle — AI Car Wash Booking Agent
 **Problem** Small service businesses lose bookings to friction — apps nobody downloads, forms nobody fills.
 **Built** A conversational agent that runs the entire booking flow over WhatsApp, backed by a real API and database.
 **Hard part** Holding context across a multi-turn WhatsApp chat while reading/writing the backend live.
 
 `Next.js` `TypeScript` `FastAPI` `SQLAlchemy` `Supabase` `WhatsApp`
 
-[GitHub](https://github.com/MTahaFarrukh/Car-Wash-Booking-Voice-Agent) · [Live Demo](https://car-wash-booking-voice-agent.vercel.app/)*
+[GitHub](https://github.com/MTahaFarrukh/Car-Wash-Booking-Voice-Agent) · [Live Demo](https://car-wash-booking-voice-agent.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -142,14 +173,29 @@ Award-winning agentic sales system using LLM reasoning and tool-driven automatio
 
 <br>
 
-##  ⌁  Hackathon Track Record
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
 
-Three competitions. **Two championships. One national Top 5 finish.**
-Built under tight deadlines, judged through live demonstrations, and designed to solve real-world problems—not just showcase prototypes.
+## &nbsp;⌁&nbsp; Hackathon Track Record
+
+Four competitions. **Three championships. One national Top 5 finish.**
+Built under tight deadlines, judged through live demonstrations, and designed to solve real-world problems — not just showcase prototypes.
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🥇 Devmarketplace × NED AI Hackathon 2026
+
+**1st Place · NED TechFest '26**
+
+Built **Visual AI Tutor** — a live whiteboard tutor with a voice agent, Teach-the-AI and viva modes, powered by Gemini 2.5 Flash.
+
+`Voice AI` `Gemini` `Next.js` `Supabase`
+
+[GitHub](https://github.com/MTahaFarrukh/ai-tutor-devmarketplace) · [Live Demo](https://ai-tutor-devmarketplace.vercel.app) · [Demo Video](https://youtu.be/Gbw-mYlmXuI)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🥇 AgentHack 2026
 
@@ -162,7 +208,9 @@ Co-built an **Autonomous Sales Agent** that uses LLM reasoning and tool-driven w
 [GitHub](https://github.com/MTahaFarrukh/AgentHack-Autonomous-Sales-Agent) · [Live Demo](https://agent-hack-kappa.vercel.app/)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🥇 BuildByte Hackathon
 
@@ -173,7 +221,7 @@ Built **CareerGPS AI**, an end-to-end career copilot combining resume analysis, 
 `RAG` `Generative AI` `Career Intelligence`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏅 Social Nova 2026
 
@@ -182,7 +230,8 @@ Built **CareerGPS AI**, an end-to-end career copilot combining resume analysis, 
 Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that helps non-technical users verify suspicious WhatsApp messages, links, emails, documents, images, audio, and video.
 
 `Multimodal AI` `Cyber Safety` `Gemini`
- · [Live Demo](https://brain-hack-habib.vercel.app/scan)
+
+[Live Demo](https://brain-hack-habib.vercel.app/scan)
 
 </td>
 </tr>
@@ -190,15 +239,15 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 > **What these results represent:** rapid problem-solving, team execution, product thinking, and the ability to turn ambitious AI ideas into working demos under pressure.
 
-
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
 
 ## &nbsp;⌁&nbsp; AI Engineering Areas
 
 <table>
 <tr><td align="center">🤖<br><b>Agentic AI</b></td><td align="center">🔎<br><b>RAG</b></td><td align="center">🧠<br><b>Generative AI</b></td><td align="center">🎙️<br><b>Voice AI</b></td><td align="center">🔌<br><b>MCP / Tools</b></td><td align="center">⚙️<br><b>AI Automation</b></td></tr>
-<tr><td><sub>FirstRound<br>Car Wash Agent</sub></td><td><sub>RAG Comparison<br>Tool</sub></td><td><sub>CareerGPS AI</sub></td><td><sub>FirstRound</sub></td><td><sub>FirstRound</sub></td><td><sub>Daraz Label<br>Manager</sub></td></tr>
+<tr><td><sub>FirstRound<br>Sales Agent<br>Sparkle</sub></td><td><sub>DocuMind AI</sub></td><td><sub>Visual AI Tutor<br>CareerGPS AI</sub></td><td><sub>Visual AI Tutor<br>FirstRound</sub></td><td><sub>FirstRound</sub></td><td><sub>Daraz Label<br>Manager</sub></td></tr>
 </table>
 
 <br>
@@ -219,6 +268,7 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 <p>
 <img src="https://img.shields.io/badge/LangChain-6C4FF7?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-6C4FF7?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/RAG-6C4FF7?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI%20Agents-6C4FF7?style=flat-square"/>
@@ -241,6 +291,7 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/LiveKit-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vapi-6C4FF7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
 </p>
 
@@ -252,15 +303,18 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MTahaFarrukh&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&title_color=6C4FF7&icon_color=6C4FF7&text_color=888888" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MTahaFarrukh&hide_border=true&background=00000000&ring=6C4FF7&fire=6C4FF7&currStreakLabel=6C4FF7" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=MTahaFarrukh&hide_border=true&background=00000000&ring=6C4FF7&fire=6C4FF7&currStreakLabel=6C4FF7" height="150"/>
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C4FF7&height=2&width=1000" width="100%"/>
+
 ## &nbsp;⌁&nbsp; Open To
 
 <table>
-<tr><td>🎯</td><td>AI engineering internships & roles — agents, RAG, LLM applications</td></tr>
+<tr><td>🎯</td><td>AI / ML, Generative AI, and Agentic AI internships & junior roles</td></tr>
+<tr><td>🐍</td><td>Python / FastAPI backend and full-stack development internships</td></tr>
 <tr><td>🏆</td><td>Hackathons and short, focused collaborative builds</td></tr>
 <tr><td>💡</td><td>Interesting agentic AI ideas worth prototyping</td></tr>
 </table>
@@ -271,6 +325,6 @@ Built **AMAAN / Digital Shield**, a multimodal scam-detection platform that help
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
-<sub>muhammadtahafarrukh@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/taha-farrukh/">linkedin</a> &nbsp;·&nbsp;</sub>
+<sub>muhammadtahafarrukh@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/taha-farrukh/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/MTahaFarrukh">GitHub</a></sub>
 
 </div>
